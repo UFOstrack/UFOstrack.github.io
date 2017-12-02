@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to UFOstrack's Pages
 
 You can use the [editor on GitHub](https://github.com/UFOstrack/UFOstrack.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
